@@ -11,3 +11,5 @@ Author: Saravanan
 4. Attachments (Image, Audio, Video) code
 
 5. Hiding the last seen
+
+1001. new features reserved
