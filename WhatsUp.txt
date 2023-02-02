@@ -12,4 +12,6 @@ Author: Saravanan
 
 5. Hiding the last seen
 
-1001. new features reserved
+6. Adding the audio call feature
+
+7. Adding the video call feature
